@@ -1,0 +1,9 @@
+[
+  {
+    "session_id": "e0c903b7-f89c-45d5-9900-23802f5d6b74",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/e0c903b7-f89c-45d5-9900-23802f5d6b74.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "hook_event_name": "SessionStart",
+    "source": "startup"
+  }
+]

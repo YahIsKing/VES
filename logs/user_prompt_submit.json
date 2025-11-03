@@ -1,0 +1,34 @@
+[
+  {
+    "session_id": "e0c903b7-f89c-45d5-9900-23802f5d6b74",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/e0c903b7-f89c-45d5-9900-23802f5d6b74.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "remove everythign from the home page but add \"VES\" with the subtitle \"Value Equity System\" under it"
+  },
+  {
+    "session_id": "e0c903b7-f89c-45d5-9900-23802f5d6b74",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/e0c903b7-f89c-45d5-9900-23802f5d6b74.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "change it to VALUE EXCHANGE SYSTEM"
+  },
+  {
+    "session_id": "e0c903b7-f89c-45d5-9900-23802f5d6b74",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/e0c903b7-f89c-45d5-9900-23802f5d6b74.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "add in progress in a subtle font under that and change site title to match"
+  },
+  {
+    "session_id": "e0c903b7-f89c-45d5-9900-23802f5d6b74",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/e0c903b7-f89c-45d5-9900-23802f5d6b74.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "commit new project to new git repot"
+  }
+]
