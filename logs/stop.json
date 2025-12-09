@@ -302,5 +302,21 @@
     "permission_mode": "default",
     "hook_event_name": "Stop",
     "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
   }
 ]
