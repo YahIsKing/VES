@@ -54,14 +54,14 @@ export const upsertFromClerk = internalMutation({
       });
       return existingUser._id;
     } else {
-      // Create new user (pending status until invite is used)
+      // Create new user (auto-active on sign up)
       return await ctx.db.insert("users", {
         clerkId: args.clerkId,
         email: args.email,
         name: args.name,
         imageUrl: args.imageUrl,
         role: "member",
-        status: "pending", // Will be activated when they use an invite
+        status: "active",
         joinedAt: Date.now(),
       });
     }
