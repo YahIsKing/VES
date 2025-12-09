@@ -1,0 +1,10 @@
+[
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "hook_event_name": "PreCompact",
+    "trigger": "auto",
+    "custom_instructions": null
+  }
+]

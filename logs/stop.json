@@ -22,5 +22,285 @@
     "permission_mode": "default",
     "hook_event_name": "Stop",
     "stop_hook_active": false
+  },
+  {
+    "session_id": "e0c903b7-f89c-45d5-9900-23802f5d6b74",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/e0c903b7-f89c-45d5-9900-23802f5d6b74.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "e0c903b7-f89c-45d5-9900-23802f5d6b74",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/e0c903b7-f89c-45d5-9900-23802f5d6b74.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "be8f36b7-0f57-462c-894d-e64a865661a0",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/be8f36b7-0f57-462c-894d-e64a865661a0.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9209963f-fcee-43ca-a963-dc06dc0e52ac",
+    "transcript_path": "/Users/dustinmyers/.claude/projects/-Users-dustinmyers-GitHub-POLOE-VES/9209963f-fcee-43ca-a963-dc06dc0e52ac.jsonl",
+    "cwd": "/Users/dustinmyers/GitHub/POLOE/VES",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
   }
 ]
